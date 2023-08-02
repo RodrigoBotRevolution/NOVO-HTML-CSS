@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(28, 28, 28);
+}
+
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+div{
+margin-left: 430px;
+}
+
+iframe{
+  margin-left: 410px;
+}
+p{
+  text-align: center;
+}

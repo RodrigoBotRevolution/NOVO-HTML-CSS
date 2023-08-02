@@ -1,0 +1,29 @@
+@charset "UFT-8";
+
+
+
+body{
+  background-color: #0C1618;
+margin-left: 230px;
+}
+
+div{
+  display:inline-flex;
+  background-color: #D1AC00;
+  height:400px;
+  width: 300px;
+  text-align: justify;
+  text-indent: 30px;
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+
+div:hover {
+background-color: #FAF4D3;
+}
+img{
+height: 50px;
+width: 50px;
+}
